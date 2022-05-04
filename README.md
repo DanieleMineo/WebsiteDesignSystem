@@ -1,3 +1,0 @@
-# WebsiteDesignSystem
-
-Codecademy Project
